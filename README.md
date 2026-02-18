@@ -15,8 +15,8 @@ The game includes multiple difficulty levels, sound effects, animations, score t
 ## ▶️ How to Run
 
 1. Install Python  
-2. Install Pygame: pip install pygame
-3. Run the game: python main.py
+2. Install Pygame:`pip install pygame`  
+3. Run the game: `python main.py`
 
 
 ---
